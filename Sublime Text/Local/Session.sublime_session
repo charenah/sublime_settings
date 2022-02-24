@@ -1,0 +1,694 @@
+{
+	"folder_history":
+	[
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/ic71/vn/business",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/ic71/ph/business",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/ic71/my/business",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/ic71/sg/business",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/ic71/sg/business/success-stories",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/ic32/sg/privacy/features",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/ic32/sg/privacy/control",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/ic32/sg/privacy",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/ic32/my/privacy",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/sg/dm/22/2069302-0A044DB",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/vn/dm/22/M01095-0247843",
+		"/Users/charenahengsathorn/Development/applecom/us/branches/ic32/us/privacy",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/ic32/my/wallet",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/ic32/my",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/vn",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/sg/payment-methods",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/my/payment-methods",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/sg/dm/22/M01092-0247843",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/sg/dm/20/2131611-715F4D52-367C-4E16-95F9-59C352F6356B",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/my/dm/22/2334101-2192711-1999131-190798-2DBB819F-685E-4EB5-9BA7-99FFD82F8655",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/th/education/docs",
+		"/Users/charenahengsathorn/Development/applecom/us/branches/webedit/us/education/k12",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/th/education",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/my/dm/22/2334101-2192711-1999131-190798-2DBB819F-685E-4EB5-9BA7-99FFD82F8655",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/sg/iphone",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/th/itunes",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/th/apple-watch-se",
+		"/Users/charenahengsathorn/Development/applecom/us/branches/webedit/us/apple-watch-se",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/th/watch",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/id/swift/playgrounds",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/th/education/k12",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/ic32/id/wallet",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/ph/support/products",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/ph/support/products/ipod",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/vn/dm/22/M00968-B159A033-A92A-4133-8888-CFC308379CAE",
+		"/Users/charenahengsathorn/Development/applecom/us/branches/webedit/us/support",
+		"/Users/charenahengsathorn/Development/applecom/us/branches/webedit/us/support/products/mac",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/vn/support/products",
+		"/Users/charenahengsathorn/Development/applecom/us/branches/webedit/us/support/products/ipod",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/sg/iphone/buy",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/th/iphone",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/vn/ipad/shared",
+		"/Users/charenahengsathorn/Development/applecom/us/branches/webedit/us/ipad",
+		"/Users/charenahengsathorn/Development/applecom/us/branches/webedit/us/ipad/why-ipad",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/ph/ipad",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/vn/ipad-10.2",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/ph/ipad-10.2",
+		"/Users/charenahengsathorn/Development/applecom/us/branches/webedit/us/ipad-10.2",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/id/services",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/sg/privacy",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/sg/ios/carplay",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/sg/dm/21/2068542-22BB85EC-6E2F-4BD2-AE74-DA44808BBC7D",
+		"/Users/charenahengsathorn/Development/applecom/us/trunk/us/dm/us/21/5F88AB1B-5BC2-4923-97C2-EE38560AF754",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/th/dm/22/2331361-2068532-22BB85EC-6E2F-4BD2-AE74-DA44808BBC7D",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/th/dm/22/2331331-2068492-22BB85EC-6E2F-4BD2-AE74-DA44808BBC7D",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/my/privacy",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/th/privacy",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/id/privacy/control",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/vn/privacy",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/ph/privacy",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/th/services",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/ic27/th/business",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/ic27/id/business",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/ic19/th/apple-tv-app",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/ic19/id/apple-tv-app",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/ic19/sg/apple-tv-app",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/ic19/my/apple-tv-app",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/ic19/vn/apple-tv-app",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/ic19/ph/apple-tv-app",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/id/dm/21/2316111-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/my/dm/21/2316071-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E",
+		"/Users/charenahengsathorn/Development/applecom/us/branches/webedit/us/privacy/features",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/id/dm/21/2314841-B74C7607-17F8-470C-BB31-F4CE6558AC7E",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/my/dm/21/2314831-B74C7607-17F8-470C-BB31-F4CE6558AC7E",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/id/dm/21",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/my/dm/21/2314861-B74C7607-17F8-470C-BB31-F4CE6558AC7E",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/id/dm/21/2312581-3",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/th/dm/21/2112991-8CA4F2E9-65FE-4C46-A79C-660A6E5496EA",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/th/dm/21/2113001-8CA4F2E9-65FE-4C46-A79C-660A6E5496EA",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/id/dm/21/2113011-8CA4F2E9-65FE-4C46-A79C-660A6E5496EA",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/vn/dm/21/2112981-8CA4F2E9-65FE-4C46-A79C-660A6E5496EA",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/my/dm/21/2112961-8CA4F2E9-65FE-4C46-A79C-660A6E5496EA",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/sg/dm/21/2112951-8CA4F2E9-65FE-4C46-A79C-660A6E5496EA",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/th/dm/21/2204351-1999141-2DBB819F-685E-4EB5-9BA7-99FFD82F8655",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/th/dm/21/2192721-1999141-2DBB819F-685E-4EB5-9BA7-99FFD82F8655",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/th/dm/21/2192731-B0FB0C2C-C017-41D7-953C-76C95E71374A",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/th/dm/21/2204261-1999141-2DBB819F-685E-4EB5-9BA7-99FFD82F8655",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/th/dm/21/2204361-2DBB819F-685E-4EB5-9BA7-99FFD82F8655",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/th/dm/21/2204271-2DBB819F-685E-4EB5-9BA7-99FFD82F8655",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/id/dm/21/2307121-A00296B4-A542-4F4D-9ECF-01C465ADD026",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/id/dm/21/2312581-3",
+		"/Users/charenahengsathorn"
+	],
+	"last_version": 4126,
+	"last_window_id": 198,
+	"log_indexing": false,
+	"next_update_check": 1645751232,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 784.0,
+		"new_window_maximized": false,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/sg/dm/22/2069302-0A044DB/index.src.html"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 98.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"apple-pay"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 192.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1425.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/sg/dm/22/2069302-0A044DB/index.html",
+					"settings":
+					{
+						"buffer_size": 112867,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/sg/dm/22/2069302-0A044DB"
+			],
+			"file_history":
+			[
+				"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/sg/dm/22/2069302-0A044DB/index.src.html"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 98.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/sg/dm/22/2069302-0A044DB"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/sg/dm/22/2069302-0A044DB/index.html",
+							"selected": true,
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 112867,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "YnBsaXN0MDDUAQIDBAUGBxxYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctoICQoLDA0ODxAREhMUFRYXGBkaG18QFU5TTWluaWF0dXJpemF0aW9uU2VlZF8QEF9OU1dpbmRvd0xheW91dHNbTlNDbGFzc05hbWVbTlNTdHlsZU1hc2teTlNXaW5kb3dOdW1iZXJeTlNNaW5pYXR1cml6ZWRdTlNXaW5kb3dGcmFtZV8QEE5TRmlyc3RSZXNwb25kZXJXTlNUaXRsZV8QE05TV2luZG93V29ya3NwYWNlSUQQHYAFgAMRgA8SAAPNKwmAAYAAgAKABK8QDx0eHyAhIisxMjM5P0BBRFUkbnVsbF8QGzcgNzEgMTQyNSA4MDYgMCAwIDE0NDAgODc3IG8QHABpAG4AZABlAHgALgBoAHQAbQBsACAgFAAgADIAMAA2ADkAMwAwADIALQAwAEEAMAA0ADQARABCWFBYV2luZG93XxAkMDI2RTM0OUQtMkJEMy00MDk1LTg3N0YtODU5NDI3RTZDM0RB0yMkJSYoKldOUy5rZXlzWk5TLm9iamVjdHNWJGNsYXNzoSeABqEpgAqADtMsLSUuLzBfEBhOU1NjcmVlbkxheW91dFVVSURTdHJpbmdfEBJOU1NjcmVlbkxheW91dFNpemWAB4AIgAlfECQ0NkZBMjA4OC01MTc1LTE3MTItMDRBNC04MTgzMjcyQ0YyNDhbezE0NDAsIDkwMH3SNDU2N1okY2xhc3NuYW1lWCRjbGFzc2VzXk5TU2NyZWVuTGF5b3V0ojY4WE5TT2JqZWN00zo7JTw9Pl8QGU5TV2luZG93TGF5b3V0V2luZG93RnJhbWVfEB9OU1dpbmRvd0xheW91dFNjcmVlbkxheW91dEZyYW1lgAuADIANXxAWe3s3LCA3MX0sIHsxNDI1LCA4MDZ9fV8QFXt7MCwgMH0sIHsxNDQwLCA4Nzd9fdI0NUJDXk5TV2luZG93TGF5b3V0okI40jQ1RUZcTlNEaWN0aW9uYXJ5okU4AAgAEQAaACQAKQAyADcASQBeAHYAiQCVAKEAsAC/AM0A4ADoAP4BAAECAQQBBwEMAQ0BDwERARMBFQEnAS0BSwGGAY8BtgG9AcUB0AHXAdkB2wHdAd8B4QHoAgMCGAIaAhwCHgJFAlECVgJhAmoCeQJ8AoUCjAKoAsoCzALOAtAC6QMBAwYDFQMYAx0DKgAAAAAAAAIBAAAAAAAAAEcAAAAAAAAAAAAAAAAAAAMt",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 192.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 181,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/charenahengsathorn/Development/applecom/sea/branches/ic32/sg/privacy/index.html",
+					"settings":
+					{
+						"buffer_size": 39712,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/charenahengsathorn/Development/applecom/sea/branches/ic32/sg/privacy"
+			],
+			"file_history":
+			[
+				"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/sg/dm/22/2069302-0A044DB/index.src.html"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 98.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"apple-pay"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/charenahengsathorn/Development/applecom/sea/branches/ic32/sg/privacy"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/charenahengsathorn/Development/applecom/sea/branches/ic32/sg/privacy/index.html",
+							"selected": true,
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 39712,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										27684,
+										30708
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 8307.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "YnBsaXN0MDDUAQIDBAUGBxxYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctoICQoLDA0ODxAREhMUFRYXGBkaG18QFU5TTWluaWF0dXJpemF0aW9uU2VlZF8QEF9OU1dpbmRvd0xheW91dHNbTlNDbGFzc05hbWVbTlNTdHlsZU1hc2teTlNXaW5kb3dOdW1iZXJeTlNNaW5pYXR1cml6ZWRdTlNXaW5kb3dGcmFtZV8QEE5TRmlyc3RSZXNwb25kZXJXTlNUaXRsZV8QE05TV2luZG93V29ya3NwYWNlSUQQJ4AFgAMRgA8SAAQE0QmAAYAAgAKABK8QDx0eHyAhIisxMjM5P0BBRFUkbnVsbF8QGzcgNzAgMTQyNSA4MDYgMCAwIDE0NDAgODc3IG8QFABpAG4AZABlAHgALgBoAHQAbQBsACAgFAAgAHAAcgBpAHYAYQBjAHlYUFhXaW5kb3dfECQwMjZFMzQ5RC0yQkQzLTQwOTUtODc3Ri04NTk0MjdFNkMzREHTIyQlJigqV05TLmtleXNaTlMub2JqZWN0c1YkY2xhc3OhJ4AGoSmACoAO0ywtJS4vMF8QGE5TU2NyZWVuTGF5b3V0VVVJRFN0cmluZ18QEk5TU2NyZWVuTGF5b3V0U2l6ZYAHgAiACV8QJDQ2RkEyMDg4LTUxNzUtMTcxMi0wNEE0LTgxODMyNzJDRjI0OFt7MTQ0MCwgOTAwfdI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNeTlNTY3JlZW5MYXlvdXSiNjhYTlNPYmplY3TTOjslPD0+XxAZTlNXaW5kb3dMYXlvdXRXaW5kb3dGcmFtZV8QH05TV2luZG93TGF5b3V0U2NyZWVuTGF5b3V0RnJhbWWAC4AMgA1fEBZ7ezcsIDcwfSwgezE0MjUsIDgwNn19XxAVe3swLCAwfSwgezE0NDAsIDg3N3190jQ1QkNeTlNXaW5kb3dMYXlvdXSiQjjSNDVFRlxOU0RpY3Rpb25hcnmiRTgACAARABoAJAApADIANwBJAF4AdgCJAJUAoQCwAL8AzQDgAOgA/gEAAQIBBAEHAQwBDQEPAREBEwEVAScBLQFLAXYBfwGmAa0BtQHAAccByQHLAc0BzwHRAdgB8wIIAgoCDAIOAjUCQQJGAlECWgJpAmwCdQJ8ApgCugK8Ar4CwALZAvEC9gMFAwgDDQMaAAAAAAAAAgEAAAAAAAAARwAAAAAAAAAAAAAAAAAAAx0",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 192.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 190,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

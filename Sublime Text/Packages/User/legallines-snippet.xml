@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<a href="https://tv.apple.com/th/movie/jumanji-the-next-level/umc.cmc.5s2gntehgm0y74ryjwlgyyji9?l=th"><em>$SELECTION$1</em></a>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

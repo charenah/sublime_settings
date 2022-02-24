@@ -1,0 +1,1677 @@
+{
+	"folder_history":
+	[
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/vn/privacy",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/ph/privacy",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/my/privacy",
+		"/Users/charenahengsathorn/Development/applecom/us/branches/webedit/us/privacy/features",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/sg/privacy",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/id/dm/21/2314841-B74C7607-17F8-470C-BB31-F4CE6558AC7E",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/my/dm/21/2314831-B74C7607-17F8-470C-BB31-F4CE6558AC7E",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/id/dm/21",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/my/dm/21/2316071-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/my/dm/21/2314861-B74C7607-17F8-470C-BB31-F4CE6558AC7E",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/id/dm/21/2312581-3",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/th/dm/21/2112991-8CA4F2E9-65FE-4C46-A79C-660A6E5496EA",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/th/dm/21/2113001-8CA4F2E9-65FE-4C46-A79C-660A6E5496EA",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/id/dm/21/2113011-8CA4F2E9-65FE-4C46-A79C-660A6E5496EA",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/vn/dm/21/2112981-8CA4F2E9-65FE-4C46-A79C-660A6E5496EA",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/my/dm/21/2112961-8CA4F2E9-65FE-4C46-A79C-660A6E5496EA",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/sg/dm/21/2112951-8CA4F2E9-65FE-4C46-A79C-660A6E5496EA",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/th/dm/21/2204351-1999141-2DBB819F-685E-4EB5-9BA7-99FFD82F8655",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/th/dm/21/2192721-1999141-2DBB819F-685E-4EB5-9BA7-99FFD82F8655",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/th/dm/21/2192731-B0FB0C2C-C017-41D7-953C-76C95E71374A",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/th/dm/21/2204261-1999141-2DBB819F-685E-4EB5-9BA7-99FFD82F8655",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/th/dm/21/2204361-2DBB819F-685E-4EB5-9BA7-99FFD82F8655",
+		"/Users/charenahengsathorn/Development/applecom/sea/trunk/th/dm/21/2204271-2DBB819F-685E-4EB5-9BA7-99FFD82F8655",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/id/dm/21/2307121-A00296B4-A542-4F4D-9ECF-01C465ADD026",
+		"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/id/dm/21/2312581-3",
+		"/Users/charenahengsathorn"
+	],
+	"last_version": 4121,
+	"last_window_id": 54,
+	"log_indexing": false,
+	"next_update_check": 1640230763,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 799.0,
+		"new_window_maximized": false,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 98.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"icloud priva"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 192.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1409.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "Semangat awal tahun dengan berlangganan Apple One Premier.",
+					"file": "/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E/subject.txt",
+					"file_size": 58,
+					"file_write_time": 132845327876869447,
+					"settings":
+					{
+						"buffer_size": 58,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							2,
+							1,
+							"paste",
+							null,
+							"AgAAAAAAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA6AAAAAAAAAD8AAABTdGFydCB0aGUgeWVhciBzdHJvbmcgd2l0aCB5b3VyIEFwcGxlIE9uZSBQcmVtaWVyIHN1YnNjcmlwdGlvbi4",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"contents": "<!DOCTYPE html>\n<html lang=\"id-ID\">\n<head>\n\t<title>${global.pageName}</title>\n\t<meta content=\"width=device-width,initial-scale=1\" name=\"viewport\">\n\t<meta content=\"text/html;charset=utf-8\" http-equiv=\"content-type\">\n\t<meta content=\"date=no\" name=\"format-detection\">\n\t<meta content=\"address=no\" name=\"format-detection\">\n\t<meta content=\"email=no\" name=\"format-detection\">\n\t<style type=\"text/css\">\t\t@media only screen and (max-device-width:2732px){.m23 a,.m24 a[href^=\"tel:\"]{color:inherit!important}.m23 a{text-decoration:none!important}}\n\t</style>\n\t<style type=\"text/css\">\t\t@media screen and (max-width:320px){.m27{padding-left:0!important;padding-right:0!important}}\n\t</style>\n\t<style type=\"text/css\">\t\t@media screen and (max-device-width:568px){h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{color:inherit!important;font-weight:inherit!important}}\n\t</style>\n\t<style type=\"text/css\">\t\t@media only screen and (max-device-width:568px){.m0,.m50{display:none!important}.m1{display:block!important;width:100%!important;height:inherit!important;overflow:visible!important}.m21,.m21 p,.m51{padding:0!important}.m23 a,.m24 a[href^=\"tel:\"]{color:inherit!important}.m52{display:table-cell!important}.m51 table.m24{width:100%!important;max-width:414px!important;padding-top:0!important}.m53{padding:0 6.25%!important}.m51 table.m54{width:100%!important;max-width:362px!important;padding-top:0!important}.m21 p{font-size:12px!important;line-height:39px!important}.m21 span.m22{font-size:0;line-height:0;display:block}.m55,.m55 p{line-height:20px!important}.m23 a{text-decoration:none!important}.m56.m57{background-color:#fff!important}.m56 .m24,.m56 .m54{background-color:#f5f5f7!important}.m56 .m58,.m56 .m58 p,.m56 .m55{text-align:left!important}.m56 .m21{border-top:1px solid #d2d2d7!important}.m56 .m21 span.m22{border-top:1px solid #d2d2d7}}\n\t</style>\n\t<style type=\"text/css\">\t\t.m0,.m1,td{font-size:17px;font-weight:400;line-height:25px;font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif,'SF Pro Icons'}.m1,.m1 div{box-sizing:border-box}.m2,.m2 h1,.m2 h1 a,.m2 h1 a:hover,.m2 h1 a:visited,.m2 h2,.m2 h2 a,.m2 h2 a:hover,.m2 h2 a:visited,.m2 h3,.m2 h3 a,.m2 h3 a:hover,.m2 h3 a:visited,.m2 h4,.m2 h4 a,.m2 h4 a:hover,.m2 h4 a:visited{color:#1d1d1f}.m3{white-space:nowrap}.m1 .m4,img{max-width:100%}.m0,.m1,.m5,a,p,td{font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif,'SF Pro Icons'}*{-webkit-font-smoothing:antialiased;text-rendering:optimizelegibility}.m0,.m1{width:100%!important}table{border-spacing:0}b{font-weight:600}.m1{display:none;margin:0 auto;max-width:100%;width:100%}.m1 .m6 img,img{display:block}.m1 .m4 .m7{max-width:414px;margin:0 auto}.m1 .m8{font-size:0;line-height:0;margin:0 auto}.m1 .m9,.m1 .m10{font-size:17px;line-height:25px}.m11 img,.m6 img,.m12{display:inline-block}.m13,.m4{margin:0 auto}.m14{text-align:center}.m14 img,img.m14{margin-left:auto;margin-right:auto}.m15{text-align:left}.m15 img{margin-left:0;margin-right:auto}.m16 img,img.m16{margin-right:0;margin-left:auto}.m16{text-align:right}.m17 a,.m18 a{border:0;outline:0}.m18 .m8{font-size:12px;line-height:16px}.m2{border-color:#fff;background-color:#fff}.m2 a,.m2 a:hover,.m2 a:visited{color:#06c}.m2.m17,.m2.m18{color:#86868b;background-color:#f5f5f7}.m2.m17 .m11,.m2.m17 a,.m2.m17 a.m11,.m2.m18 .m11,.m2.m18 a,.m2.m18 a.m11{color:#515154}.m19 .m2{color:#6e6e73;background-color:#f5f5f7}.m20 .m21 a,.m19 .m2 .m11,.m19 .m2 a,.m19 .m2 a.m11,.m19 .m2 a:hover,.m19 .m2 a:visited{color:#424245}.m11,.m5 a,a,a:link{text-decoration:none}.m11+.m22,a img,h1,h2,h3,h4,h5,h6{display:inline-block}.m5 a[x-apple-data-detectors],a[x-apple-data-detectors],p a[x-apple-data-detectors]{text-decoration:none!important}.m5 a,a,p a{cursor:pointer;text-decoration:none}.m5,p{font-size:17px;font-weight:400;line-height:25px;margin:0}.m5 a:focus,.m5 a:hover,a.m11:hover,a:focus,a:hover,a[x-apple-data-detectors]:hover,p a:focus,p a:hover{text-decoration:underline!important}img.m15{margin-right:auto;margin-left:0}a img{border:0;outline:0}.m25{vertical-align:top}.m26{vertical-align:bottom}.m28 img,.m29,.m30,.m31 img,.m32 img{border-radius:15px}a>span{letter-spacing:inherit}.m11+.m22{font-size:12px;padding:0 4px}.m18 .m11{display:inline}h1,h2,h3,h4,h5,h6{margin:0;font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}h1.m14,h2.m14,h3.m14,h4.m14,h5.m14,h6.m14{margin:0 auto;text-align:center}h1.m16,h2.m16,h3.m16,h4.m16,h5.m16,h6.m16{margin-left:auto;margin-right:0;text-align:right}.m1 h4.m33{font-size:24px;line-height:1.16667;letter-spacing:0}.m1 h5.m6{font-size:21px;line-height:1.19048;letter-spacing:0}.m0,.m1{background-color:#fff}.m34 .m35 .m36{overflow:hidden;width:100%;margin:0;background-image:url(/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E/i/m_logo_fitness_2x.png)!important;background-size:108px 59px;background-position:left center;background-repeat:no-repeat;max-width:414px;height:59px}.m37{vertical-align:middle;width:38%}.m29,.m30,.m38{width:280px;max-width:280px}.m39{padding:10px 4% 11px}.m40{background-color:#f2f2f2!important}.m38{padding-top:38px;padding-bottom:20px}.m41,.m42{padding-right:6.25%;padding-left:6.25%}.m29{vertical-align:top}.m43{padding-top:20px}.m44{padding-bottom:57px;font-weight:600}.m44 img,.m45 img{width:12px;height:10px}.m46{padding-right:35px;padding-bottom:12px;padding-left:35px}.m46 h4{font-weight:700}.m45{padding-bottom:38px;font-weight:600}.m47{padding-bottom:86px}.m48{padding-top:33px}.m49 .m7{background-color:#f5f5f7!important;max-width:414px}body{background-color:#fff!important}.m59.m59.m59{display:inline;margin:0}\n\t</style>\n\n<!--[if gte mso 9]><style type=\"text/css\">table,td,tr,a,span,b,sup{line-height:normal !important; mso-line-height-rule: exactly;}sup{font-size:100% !important;}h1,h2,h3,h4,h5,h6 {line-height: inherit !important; font-family:'Segoe UI SemiBold','Segoe UI', Arial, sans-serif !important; font-weight: 400 !important; mso-line-height-rule: exactly; mso-text-raise: 2px;}h1 sup,h2 sup,h3 sup,h4 sup,h5 sup,h6 sup, .outSemiBold sup, .outBold sup{font-size:90% !important;}b,strong {line-height: inherit !important; font-family:'Segoe UI SemiBold','Segoe UI', Arial, sans-serif !important; font-weight: 400 !important; mso-line-height-rule: exactly; }.outBold { font-family: 'Segoe UI', Arial, sans-serif !important; font-weight: 600 !important; }.outSemiBold { font-family: 'Segoe UI SemiBold','Segoe UI', Arial, sans-serif !important; font-weight: 400 !important;line-height: inherit !important;mso-text-raise: 2px; }.outBold {overflow:visible;line-height: inherit !important;mso-line-height-rule: exactly;mso-text-raise: 2px; }.fallback { display: block !important}.animated { display: none !important}li {margin-bottom: 9px;}ol {margin-left: 0 !important; }</style><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]-->\n<!--[if gte mso 15]><style type=\"text/css\">   h1,h2,h3,h4,h5,h6 {mso-text-raise: 2px;}</style><![endif]-->\n<!--[if mso 15]><style type=\"text/css\">   h1 {mso-text-raise: 4px;}</style><![endif]-->\n</head>\n<body style=\"margin:0;padding:0\">\n<div style=\"display:none;max-height:0;overflow:hidden\">\n\tTahukah Anda bahwa Apple Fitness+ disertakan dengan langganan Apple One Premier Anda? Cukup beli Apple Watch baru dan temukan olahraga, pelatih, dan program spesial untuk membantu Anda mewujudkan resolusi di tahun yang baru. \n</div>\n\n<!-- Adding spaces to prevent email copy from being visible -->\n<div style=\"display:none;max-height:0;overflow:hidden\">\n\t ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ \n</div>\n<div class=\"m1\" style=\"display:none;width:0;height:0;overflow:hidden\">\n\t<div class=\"m4 m2\">\n\t\t<div class=\"m7\">\n\t\t\t<div class=\"m8 m39\">\n\t\t\t\t<div class=\"m9 m12 m15 m37\">\n\t\t\t\t\t<div class=\"m34\">\n\t\t\t\t\t\t<div class=\"m35\">\n\t\t\t\t\t\t\t<div class=\"m15 m36\">\n\t\t\t\t\t\t\t\t<span aria-label=\"Apple Fitness+\" role=\"img\"></span><a href=\"${clicks.get('M_LOGO_IMG')}\" style=\"display:block;max-width:414px;height:59px\"></a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n\t<div class=\"m4 m2 m49\">\n\t\t<div class=\"m7\">\n\t\t\t<div class=\"m8 m27\">\n\t\t\t\t<div class=\"m9 m40\">\n\t\t\t\t\t<div>\n\t\t\t\t\t\t<div class=\"m14\">\n\t\t\t\t\t\t\t<a href=\"${clicks.get('M_HERO_IMG')}\"><img alt=\"Temukan di dalam aplikasi Kebugaran di iPhone, iPad, dan Apple TV   Shop Apple Watch\" src=\"/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E/i/m_hero_appleone_2x.jpg\" width=\"100%\" class=\"m25\"></a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"m8 m41\">\n\t\t\t\t<div class=\"m9 m13 m38\">\n\t\t\t\t\t<div class=\"m32\">\n\t\t\t\t\t\t<div class=\"m14\">\n\t\t\t\t\t\t\t<img alt=\"11 tipe olahraga berbeda, mulai dari HIIT sampai Yoga.\" src=\"/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E/i/m_11_workout_types_2x.jpg\" width=\"280\" height=\"350\" class=\"m25\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"m9 m13 m30\">\n\t\t\t\t\t<div class=\"m28\">\n\t\t\t\t\t\t<div class=\"m14\">\n\t\t\t\t\t\t\t<img alt=\"Olahraga dan meditasi baru setiap minggu.\" src=\"/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E/i/m_workouts_and_meditations_2x.jpg\" width=\"280\" height=\"377\" class=\"m25\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"m8 m43\">\n\t\t\t\t<div class=\"m9 m13 m14 m29\">\n\t\t\t\t\t<div class=\"m31\">\n\t\t\t\t\t\t<div class=\"m14\">\n\t\t\t\t\t\t\t<img alt=\"Tetap termotivasi dengan metrik real-time dari Apple Watch.\" src=\"/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E/i/m_metrics_2x.jpg\" width=\"280\" height=\"341\" class=\"m25\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"m8 m27 m42\">\n\t\t\t\t<div class=\"m9 m48\">\n\t\t\t\t\t<div class=\"m14 m13 m44\">\n\t\t\t\t\t\t<a href=\"${clicks.get('M_LEARN_MORE_LNK')}\" class=\"m11\">Selengkapnya tentang Apple <span class=\"m3\">Fitness+<img alt=\" \" src=\"/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E/i/17_chevron_0066cc_2x.png\" width=\"12\" height=\"10\" class=\"m59\"></span></a>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"m14 m46\">\n\t\t\t\t\t\t<h4 class=\"m33\">\n\t\t\t\t\t\t\tApple Watch mana yang tepat untuk Anda?\n\t\t\t\t\t\t</h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"m14 m13 m45\">\n\t\t\t\t\t\t<a href=\"${clicks.get('M_COMPARE_BTN')}\" class=\"m11\">Bandingkan model Apple Watch <span class=\"m3\"><img alt=\" \" src=\"/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E/i/17_chevron_0066cc_2x.png\" width=\"12\" height=\"10\" class=\"m59\"></span></a>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"m47\">\n\t\t\t\t\t\t<div class=\"m14\">\n\t\t\t\t\t\t\t<img alt=\" \" src=\"/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E/i/m_compare_2x.png\" width=\"231\" height=\"232\" class=\"m25\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"100%\" align=\"center\">\n\t<tr>\n\t\t<td>\n\t\t<div class=\"m0\">\n\t\t\t<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"100%\" align=\"center\">\n\t\t\t\t<tr>\n\t\t\t\t\t<td style=\"text-align:center\" align=\"center\">\n\t\t\t\t\t<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"100%\" align=\"center\">\n\t\t\t\t\t\t<tr class=\"m4\">\n\t\t\t\t\t\t\t<td style=\"background-color:#fff\" class=\"m2\" align=\"center\">\n\t\t\t\t\t\t\t<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"712\" align=\"center\">\n\t\t\t\t\t\t\t\t<tr class=\"m8\">\n\t\t\t\t\t\t\t\t\t<td style=\"padding:20px 25px 20px 19px\">\n\t\t\t\t\t\t\t\t\t<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"100%\" align=\"center\">\n\t\t\t\t\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t\t\t\t\t<td class=\"m9\" width=\"100%\">\n\t\t\t\t\t\t\t\t\t\t\t<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"100%\" class=\"m9\">\n\t\t\t\t\t\t\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<td style=\"text-align:left;vertical-align:top;font-size:0;margin:0;line-height:0\" class=\"m15\" align=\"left\"><a href=\"${clicks.get('LOGO_IMG')}\" style=\"display:inline-block;color:#06c\"><picture><source media=\"(max-device-width: 568px)\" srcset=\"data:\"><img alt=\"Apple Fitness+\" src=\"/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E/i/logo_fitness_2x.png\" width=\"132\" height=\"39\" class=\"m15\" border=\"0\" style=\"display:inline-block\"></picture></a></td>\n\t\t\t\t\t\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t\t\t\t\t</table>\n\t\t\t\t\t\t\t\t\t\t\t</td>\n\t\t\t\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t\t\t</table>\n\t\t\t\t\t\t\t\t\t</td>\n\t\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t</table>\n\t\t\t\t\t\t\t</td>\n\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t<tr class=\"m4\">\n\t\t\t\t\t\t\t<td style=\"background-color:#fff\" class=\"m2\" align=\"center\">\n\t\t\t\t\t\t\t<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"736\" align=\"center\" style=\"background-color:#f5f5f7\">\n\t\t\t\t\t\t\t\t<tr class=\"m8\">\n\t\t\t\t\t\t\t\t\t<td>\n\t\t\t\t\t\t\t\t\t<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"100%\" align=\"center\">\n\t\t\t\t\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t\t\t\t\t<td class=\"m9\" align=\"center\" width=\"100%\">\n\t\t\t\t\t\t\t\t\t\t\t<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"100%\" align=\"center\" class=\"m9\">\n\t\t\t\t\t\t\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<td style=\"text-align:center;font-size:0;margin:0;line-height:0\" class=\"m14\" align=\"center\"><a href=\"${clicks.get('HERO_IMG')}\" style=\"display:inline-block;color:#06c\"><picture><source media=\"(max-device-width: 568px)\" srcset=\"data:\"><img alt=\"Hadirkan diri Anda yang baru.  Apple Fitness+ disertakan dengan langganan Apple One Premier Anda. Beli Apple Watch dan mulai hari ini.   Beli Apple Watch\" src=\"/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E/i/hero_appleone_2x.jpg\" width=\"736\" height=\"629\" class=\"m14\" border=\"0\" style=\"display:inline-block\"></picture></a></td>\n\t\t\t\t\t\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t\t\t\t\t</table>\n\t\t\t\t\t\t\t\t\t\t\t</td>\n\t\t\t\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t\t\t</table>\n\t\t\t\t\t\t\t\t\t</td>\n\t\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t\t<tr class=\"m8\">\n\t\t\t\t\t\t\t\t\t<td>\n\t\t\t\t\t\t\t\t\t<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"662\" align=\"center\">\n\t\t\t\t\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t\t\t\t\t<td style=\"padding-top:34px\">\n\t\t\t\t\t\t\t\t\t\t\t<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"662\" align=\"center\">\n\t\t\t\t\t\t\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<td style=\"border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px\" class=\"m9\" width=\"320\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"320\" class=\"m9\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<td style=\"text-align:left;vertical-align:top;font-size:0;margin:0;line-height:0\" class=\"m15\" align=\"left\"><picture><source media=\"(max-device-width: 568px)\" srcset=\"data:\"><img alt=\"11 tipe olahraga berbeda, mulai dari HIIT sampai Yoga.\" src=\"/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E/i/11_workout_types_2x.jpg\" width=\"320\" height=\"350\" class=\"m15\" border=\"0\" style=\"display:block;border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px\"></picture></td>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</table>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</td>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<td class=\"m9\" width=\"20\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"20\" class=\"m9\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<td>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"20px\" align=\"left\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<td style=\"height:26px;width:20px;font-size:0;line-height:26px\" height=\"26\" width=\"20\">   </td>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</table>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</td>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</table>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</td>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<td style=\"border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px\" class=\"m9\" align=\"right\" width=\"320\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"320\" align=\"right\" class=\"m9\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<td style=\"text-align:right;vertical-align:top;font-size:0;margin:0;line-height:0\" class=\"m16\" align=\"right\"><picture><source media=\"(max-device-width: 568px)\" srcset=\"data:\"><img alt=\"Olahraga dan meditasi baru setiap minggu.\" src=\"/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E/i/workouts_and_meditations_2x.jpg\" width=\"320\" height=\"350\" class=\"m16\" border=\"0\" style=\"display:block;border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px\"></picture></td>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</table>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</td>\n\t\t\t\t\t\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t\t\t\t\t</table>\n\t\t\t\t\t\t\t\t\t\t\t</td>\n\t\t\t\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t\t\t</table>\n\t\t\t\t\t\t\t\t\t</td>\n\t\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t\t<tr class=\"m8\">\n\t\t\t\t\t\t\t\t\t<td>\n\t\t\t\t\t\t\t\t\t<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"662\" align=\"center\">\n\t\t\t\t\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t\t\t\t\t<td style=\"padding-top:20px\">\n\t\t\t\t\t\t\t\t\t\t\t<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"662\" align=\"center\">\n\t\t\t\t\t\t\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<td style=\"border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px\" class=\"m9\" align=\"center\" width=\"662\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"662\" align=\"center\" class=\"m9\" style=\"text-align:center\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<td style=\"text-align:center;vertical-align:top;font-size:0;margin:0;line-height:0\" class=\"m14\" align=\"center\"><picture><source media=\"(max-device-width: 568px)\" srcset=\"data:\"><img alt=\"Tetap termotivasi dengan metrik real-time dari Apple Watch.\" src=\"/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E/i/metrics_2x.jpg\" width=\"660\" height=\"366\" class=\"m14\" border=\"0\" style=\"display:block;border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px\"></picture></td>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</table>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</td>\n\t\t\t\t\t\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t\t\t\t\t</table>\n\t\t\t\t\t\t\t\t\t\t\t</td>\n\t\t\t\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t\t\t</table>\n\t\t\t\t\t\t\t\t\t</td>\n\t\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t\t<tr class=\"m8\">\n\t\t\t\t\t\t\t\t\t<td>\n\t\t\t\t\t\t\t\t\t<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"100%\" align=\"center\">\n\t\t\t\t\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t\t\t\t\t<td style=\"padding-bottom:76px;border-top-left-radius:10px;border-top-right-radius:10px\" class=\"m9\" align=\"center\" width=\"662\">\n\t\t\t\t\t\t\t\t\t\t\t<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"662\" align=\"center\" class=\"m9\">\n\t\t\t\t\t\t\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<td style=\"padding-top:29px;text-align:center;font-size:17px;line-height:25px\"><a href=\"${clicks.get('LEARN_MORE_LNK')}\" style=\"font-size:17px;font-weight:600;line-height:25px;color:#06c\" class=\"m11 m5\">Selengkapnya tentang Apple <span style=\"white-space:nowrap\">Fitness+<img alt=\" \" src=\"/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E/i/17_chevron_0066cc_2x.png\" width=\"12\" height=\"10\" border=\"0\" style=\"font-size:0;display:inline-block;margin:0\"></span></a></td>\n\t\t\t\t\t\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<td style=\"padding-top:47px;padding-bottom:17px;text-align:center;vertical-align:top;line-height:normal\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<h3 style=\"font-size:32px;letter-spacing:0;line-height:36px;font-weight:700;color:#1d1d1f\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tApple Watch mana yang tepat untuk Anda?\n\t\t\t\t\t\t\t\t\t\t\t\t\t</h3>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</td>\n\t\t\t\t\t\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<td style=\"padding-bottom:38px;text-align:center;font-size:17px;line-height:25px\"><a href=\"${clicks.get('COMPARE_BTN')}\" style=\"font-size:17px;font-weight:600;line-height:25px;color:#06c\" class=\"m11 m5\">Bandingkan model Apple Watch<span style=\"white-space:nowrap\"><img alt=\" \" src=\"/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E/i/17_chevron_0066cc_2x.png\" width=\"12\" height=\"10\" border=\"0\" style=\"font-size:0;display:inline-block;margin:0\"></span></a></td>\n\t\t\t\t\t\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<td style=\"text-align:center;vertical-align:top;font-size:0;margin:0;line-height:0\" class=\"m14\" align=\"center\"><picture><source media=\"(max-device-width: 568px)\" srcset=\"data:\"><img alt=\" \" src=\"/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E/i/compare_2x.png\" width=\"311\" height=\"312\" class=\"m14\" border=\"0\" style=\"display:block\"></picture></td>\n\t\t\t\t\t\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t\t\t\t\t</table>\n\t\t\t\t\t\t\t\t\t\t\t</td>\n\t\t\t\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t\t\t</table>\n\t\t\t\t\t\t\t\t\t</td>\n\t\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t</table>\n\t\t\t\t\t\t\t</td>\n\t\t\t\t\t\t</tr>\n\t\t\t\t\t</table>\n\t\t\t\t\t</td>\n\t\t\t\t</tr>\n\t\t\t</table>\n\t\t</div>\n\t\t</td>\n\t</tr>\n\t<tr>\n\t\t<td>\n\t\t<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"100%\" class=\"m20 m56 m57\" bgcolor=\"#fff\" style=\"background-color:#fff\">\n\t\t\t<tr class=\"m4\">\n\t\t\t\t<td class=\"m51\">\n\t\t\t\t<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"736\" align=\"center\" class=\"m24\" bgcolor=\"#f5f5f7\" style=\"background-color:#f5f5f7\">\n\t\t\t\t\t<tr>\n\t\t\t\t\t\t<td style=\"padding:0 20px\" class=\"m53\">\n\t\t\t\t\t\t<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"660\" align=\"center\" class=\"m54\" bgcolor=\"#f5f5f7\">\n\t\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t\t<td style=\"padding:15px 0 16px;font-size:14px;line-height:18px;border-top-width:1px;border-top-style:solid;border-top-color:#d2d2d7;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#d2d2d7;color:#424245\" class=\"m21\" align=\"center\">\n\t\t\t\t\t\t\t\t<p style=\"color:#424245;margin:0 auto;font-size:14px;line-height:18px\">\n\t\t\t\t\t\t\t\t\t<a href=\"${clicks.get('BNAV_FIND')}\" style=\"border:0;outline:0;text-decoration:none;color:#424245\">Cari Penjual</a><span class=\"m22\" style=\"color:#D2D2D7\">    |    </span>001-803-65-7955\n\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t</td>\n\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t\t<td style=\"padding:17px 0 0;text-align:left\" class=\"m58\">\n\t\t\t\t\t\t\t\t<p style=\"font-size:12px;line-height:16px;color:#6e6e73;padding:0;margin-top:0;margin-bottom:0\">\n\t\t\t\t\t\t\t\t\tLangganan diperlukan untuk Apple Fitness+.\n\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t<p style=\"font-size:12px;line-height:16px;color:#6e6e73;padding:0;margin-top:9px;margin-bottom:0\">\n\t\t\t\t\t\t\t\t\tApple Fitness+ memerlukan iOS 14.3 atau lebih baru, iPadOS 14.3 atau lebih baru, watchOS 7.2 atau lebih baru, dan tvOS 14.3 atau lebih baru.\n\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t<p style=\"font-size:12px;line-height:16px;color:#6e6e73;padding:0;margin-top:9px;margin-bottom:0\">\n\t\t\t\t\t\t\t\t\tUntuk mendapatkan fitur terbaru, gunakan Apple Fitness+ dengan Apple Watch Series 3 atau lebih baru dengan watchOS 8 yang dipasangkan dengan iPhone 6s atau lebih baru dengan iOS 15; iPad dengan iPadOS 15; dan Apple TV 4K atau Apple TV HD dengan tvOS 15 atau lebih baru.\n\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t<p style=\"font-size:12px;line-height:16px;color:#6e6e73;padding:0;margin-top:9px;margin-bottom:0\">\n\t\t\t\t\t\t\t\t\tApple Fitness+ memerlukan Apple Watch Series 3 atau lebih baru. Tersedia ketika dipasangkan dengan iPhone 6s atau lebih baru dengan iOS 14.3 atau lebih baru. \n\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t<p style=\"font-size:12px;line-height:16px;color:#6e6e73;padding:0;margin-top:9px;margin-bottom:0\">\n\t\t\t\t\t\t\t\t\tOlahraga dan meditasi Apple Fitness+ akan diajarkan dalam bahasa Inggris dengan opsi untuk subtitle dalam bahasa Prancis, Spanyol, Jerman, Italia, Rusia, dan Portugis Brasil.\n\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t<p style=\"font-size:12px;line-height:16px;color:#6e6e73;padding:0;margin-top:9px;margin-bottom:0\">\n\t\t\t\t\t\t\t\t\tBeberapa konten mungkin tidak tersedia di semua area.\n\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t</td>\n\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t\t<td style=\"padding:9px 0;text-align:left\" class=\"m58\">\n\t\t\t\t\t\t\t\t<p style=\"font-size:12px;line-height:16px;color:#6e6e73\">\n\t\t\t\t\t\t\t\t\tTM dan © ${global.copyrightYear} Apple Inc. Tel: 001-803-65-7955\n\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t</td>\n\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t\t<td style=\"padding:0 0 9px;font-size:12px;line-height:16px;color:#424245;text-align:left\" class=\"m55\">\n\t\t\t\t\t\t\t\t<p style=\"color:#424245;margin:0 auto;font-size:12px;line-height:16px\">\n\t\t\t\t\t\t\t\t\t<a href=\"${clicks.get('LEGAL')}\" style=\"border:0;outline:0;text-decoration:none;color:#424245\">Seluruh Hak Cipta Dilindungi Undang-Undang</a>    <span class=\"m22\" style=\"color:#D2D2D7\">|</span>   <a href=\"${clicks.get('PRIVACY')}\" style=\"border:0;outline:0;text-decoration:none;color:#424245\">Kebijakan Privasi</a>    <span class=\"m22\" style=\"color:#D2D2D7\">|</span>   <a href=\"${clicks.get('MMA')}\" style=\"border:0;outline:0;text-decoration:none;color:#424245\">ID Apple Saya</a> \n\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t</td>\n\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t\t<td style=\"padding:0 0 25px;text-align:left\" class=\"m58\">Bila Anda memilih untuk tidak menerima email penawaran dari Apple, atau Anda telah mengganti alamat email, silakan klik di <a href=\"${global.unsubscribeURL}\" style=\"border:0;outline:0;text-decoration:none;color:#424245\">sini</a>.\n\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t</td>\n\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t</table>\n\t\t\t\t\t\t</td>\n\t\t\t\t\t</tr>\n\t\t\t\t</table>\n\t\t\t\t</td>\n\t\t\t</tr>\n\t\t</table>\n\t\t</td>\n\t</tr>\n</table>\n</body>\n</html>\n",
+					"file": "/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E/index.html",
+					"file_size": 26993,
+					"file_write_time": 132845332259448372,
+					"settings":
+					{
+						"buffer_size": 25452,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							1,
+							"paste",
+							null,
+							"AgAAAIUcAAAAAAAAZR0AAAAAAAAAAAAAZR0AAAAAAABlHQAAAAAAANsAAABEaWQgeW91IGtub3cgdGhhdCBBcHBsZSBGaXRuZXNzKyBpcyBpbmNsdWRlZCBpbiB5b3VyIEFwcGxlIE9uZSBQcmVtaWVyIHN1YnNjcmlwdGlvbj8gSnVzdCBwdXJjaGFzZSBhIG5ldyBBcHBsZSBXYXRjaCBhbmQgZGlzY292ZXIgd29ya291dHMsIHRyYWluZXJzLCBhbmQgc3BlY2lhbGl6ZWQgcHJvZ3JhbXMgdG8gaGVscCB5b3UgYnJlYWsgdGhyb3VnaCB0byB5b3VyIGJlc3QgeWVhci4",
+							"AQAAAAAAAAABAAAAhRwAAAAAAABgHQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							1,
+							"paste",
+							null,
+							"AgAAAGokAAAAAAAAqyQAAAAAAAAAAAAAqyQAAAAAAACrJAAAAAAAAIMAAABCcmluZyBvbiB0aGUgbmV3IHlvdS4gIEFwcGxlIEZpdG5lc3MrIGlzIGluY2x1ZGVkIGluIHlvdXIgQXBwbGUgT25lIFByZW1pZXIgc3Vic2NyaXB0aW9uLiBCdXkgYW4gQXBwbGUgV2F0Y2ggYW5kIGdldCBzdGFydGVkIHRvZGF5Lg",
+							"AQAAAAAAAAABAAAAaiQAAAAAAADtJAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"paste",
+							null,
+							"AgAAANclAAAAAAAADSYAAAAAAAAAAAAADSYAAAAAAAANJgAAAAAAADkAAAAxMSBkaWZmZXJlbnQgd29ya291dCB0eXBlcywgZXZlcnl0aGluZyBmcm9tIEhJSVQgdG8gWW9nYS4",
+							"AQAAAAAAAAABAAAA1yUAAAAAAAAQJgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							12,
+							1,
+							"paste",
+							null,
+							"AgAAAA8nAAAAAAAAOCcAAAAAAAAAAAAAOCcAAAAAAAA4JwAAAAAAACgAAABOZXcgd29ya291dHMgYW5kIG1lZGl0YXRpb25zIGV2ZXJ5IHdlZWsu",
+							"AQAAAAAAAAABAAAADycAAAAAAAA3JwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							15,
+							1,
+							"paste",
+							null,
+							"AgAAAGgoAAAAAAAAoygAAAAAAAAAAAAAoygAAAAAAACjKAAAAAAAADcAAABTdGF5IG1vdGl2YXRlZCB3aXRoIHJlYWwtdGltZSBtZXRyaWNzIGZyb20gQXBwbGUgV2F0Y2gu",
+							"AQAAAAAAAAABAAAAaCgAAAAAAACfKAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							23,
+							1,
+							"paste",
+							null,
+							"AgAAANspAAAAAAAA7ykAAAAAAAAAAAAA7ykAAAAAAADvKQAAAAAAABAAAABMZWFybiBtb3JlIGFib3V0",
+							"AQAAAAAAAAABAAAA6ykAAAAAAADbKQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							26,
+							1,
+							"paste",
+							null,
+							"AgAAAOgqAAAAAAAADysAAAAAAAAAAAAADysAAAAAAAAPKwAAAAAAACUAAABXaGljaCBBcHBsZSBXYXRjaCBpc8KgcmlnaHQgZm9ywqB5b3U/",
+							"AQAAAAAAAAABAAAACysAAAAAAADoKgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							29,
+							1,
+							"paste",
+							null,
+							"AgAAAIIrAAAAAAAAkysAAAAAAAAAAAAAkysAAAAAAACTKwAAAAAAAAgAAABDb21wYXJlIA",
+							"AQAAAAAAAAABAAAAiisAAAAAAACCKwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							32,
+							1,
+							"left_delete",
+							null,
+							"AQAAALArAAAAAAAAsCsAAAAAAAAGAAAAbW9kZWxz",
+							"AQAAAAAAAAABAAAAtisAAAAAAACwKwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							44,
+							1,
+							"paste",
+							null,
+							"AgAAAMA2AAAAAAAA3TYAAAAAAAAAAAAA3TYAAAAAAADdNgAAAAAAABUAAABCcmluZyBvbiB0aGUgbmV3IHlvdS4",
+							"AQAAAAAAAAABAAAA1TYAAAAAAADANgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							47,
+							1,
+							"paste",
+							null,
+							"AgAAAN82AAAAAAAARjcAAAAAAAAAAAAARjcAAAAAAABGNwAAAAAAAGwAAABBcHBsZSBGaXRuZXNzKyBpcyBpbmNsdWRlZCBpbiB5b3VyIEFwcGxlIE9uZSBQcmVtaWVyIHN1YnNjcmlwdGlvbi4gQnV5IGFuIEFwcGxlIFdhdGNoIGFuZCBnZXQgc3RhcnRlZCB0b2RheS4",
+							"AQAAAAAAAAABAAAA3zYAAAAAAABLNwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							50,
+							1,
+							"paste",
+							null,
+							"AgAAAEk3AAAAAAAAWTcAAAAAAAAAAAAAWTcAAAAAAABZNwAAAAAAABAAAABTaG9wIEFwcGxlIFdhdGNo",
+							"AQAAAAAAAAABAAAASTcAAAAAAABZNwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							53,
+							1,
+							"paste",
+							null,
+							"AgAAALo7AAAAAAAA8DsAAAAAAAAAAAAA8DsAAAAAAADwOwAAAAAAADkAAAAxMSBkaWZmZXJlbnQgd29ya291dCB0eXBlcywgZXZlcnl0aGluZyBmcm9tIEhJSVQgdG8gWW9nYS4",
+							"AQAAAAAAAAABAAAAujsAAAAAAADzOwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							56,
+							1,
+							"paste",
+							null,
+							"AgAAAI5BAAAAAAAAt0EAAAAAAAAAAAAAt0EAAAAAAAC3QQAAAAAAACgAAABOZXcgd29ya291dHMgYW5kIG1lZGl0YXRpb25zIGV2ZXJ5IHdlZWsu",
+							"AQAAAAAAAAABAAAAjkEAAAAAAAC2QQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							59,
+							1,
+							"paste",
+							null,
+							"AgAAAAlHAAAAAAAAREcAAAAAAAAAAAAAREcAAAAAAABERwAAAAAAADcAAABTdGF5IG1vdGl2YXRlZCB3aXRoIHJlYWwtdGltZSBtZXRyaWNzIGZyb20gQXBwbGUgV2F0Y2gu",
+							"AQAAAAAAAAABAAAACUcAAAAAAABARwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							62,
+							1,
+							"paste",
+							null,
+							"AgAAAKJLAAAAAAAAtksAAAAAAAAAAAAAtksAAAAAAAC2SwAAAAAAABAAAABMZWFybiBtb3JlIGFib3V0",
+							"AQAAAAAAAAABAAAAoksAAAAAAACySwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							65,
+							1,
+							"paste",
+							null,
+							"AgAAAMFNAAAAAAAA6E0AAAAAAAAAAAAA6E0AAAAAAADoTQAAAAAAACUAAABXaGljaCBBcHBsZSBXYXRjaCBpc8KgcmlnaHQgZm9ywqB5b3U/",
+							"AQAAAAAAAAABAAAA5E0AAAAAAADBTQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							69,
+							1,
+							"paste",
+							null,
+							"AgAAAApPAAAAAAAAJk8AAAAAAAAAAAAAJk8AAAAAAAAmTwAAAAAAABMAAABDb21wYXJlIEFwcGxlIFdhdGNo",
+							"AQAAAAAAAAABAAAACk8AAAAAAAAdTwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							72,
+							6,
+							"left_delete",
+							null,
+							"BgAAAE1PAAAAAAAATU8AAAAAAAABAAAAc0xPAAAAAAAATE8AAAAAAAABAAAAbEtPAAAAAAAAS08AAAAAAAABAAAAZUpPAAAAAAAASk8AAAAAAAABAAAAZElPAAAAAAAASU8AAAAAAAABAAAAb0hPAAAAAAAASE8AAAAAAAABAAAAbQ",
+							"AQAAAAAAAAABAAAATk8AAAAAAABOTwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							75,
+							1,
+							"left_delete",
+							null,
+							"AQAAACZPAAAAAAAAJk8AAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAAJ08AAAAAAAAnTwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							78,
+							1,
+							"paste",
+							null,
+							"AgAAAMVXAAAAAAAA71cAAAAAAAAAAAAA71cAAAAAAADvVwAAAAAAAC8AAABBIHN1YnNjcmlwdGlvbiBpcyByZXF1aXJlZCBmb3IgQXBwbGXCoEZpdG5lc3MrLg",
+							"AQAAAAAAAAABAAAA81cAAAAAAADFVwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							81,
+							1,
+							"paste",
+							null,
+							"AgAAAHFYAAAAAAAA/VgAAAAAAAAAAAAA/VgAAAAAAAD9WAAAAAAAAHIAAABBcHBsZSBGaXRuZXNzKyByZXF1aXJlcyBpT1MgMTQuMyBvciBsYXRlciwgaVBhZE9TwqAxNC4zIG9yIGxhdGVyLCB3YXRjaE9TwqA3LjIgb3IgbGF0ZXIsIGFuZCB0dk9TwqAxNC4zIG9ywqBsYXRlci4",
+							"AQAAAAAAAAABAAAA31gAAAAAAABxWAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							84,
+							1,
+							"paste",
+							null,
+							"AgAAAH9ZAAAAAAAAjFoAAAAAAAAAAAAAjFoAAAAAAACMWgAAAAAAANkAAABUbyBnZXQgdGhlIG5ld2VzdCBmZWF0dXJlcywgdXNlIEFwcGxlwqBGaXRuZXNzKyB3aXRoIEFwcGxlwqBXYXRjaCBTZXJpZXPCoDMgb3IgbGF0ZXIgd2l0aCB3YXRjaE9TwqA4IHBhaXJlZCB3aXRoIGlQaG9uZcKgNnMgb3IgbGF0ZXIgd2l0aCBpT1PCoDE1OyBpUGFkIHdpdGggaVBhZE9TwqAxNTsgYW5kIEFwcGxlwqBUViA0SyBvciBBcHBsZcKgVFYgSEQgd2l0aCB0dk9TwqAxNS4g",
+							"AQAAAAAAAAABAAAATloAAAAAAAB/WQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							87,
+							1,
+							"paste",
+							null,
+							"AgAAAA5bAAAAAAAAq1sAAAAAAAAAAAAAq1sAAAAAAACrWwAAAAAAAHoAAABBcHBsZSBGaXRuZXNzKyByZXF1aXJlcyBhbiBBcHBsZcKgV2F0Y2ggU2VyaWVzwqAzIG9yIGxhdGVyLiBBdmFpbGFibGUgd2hlbiBwYWlyZWQgd2l0aCBpUGhvbmXCoDZzIG9yIGxhdGVyIHdpdGggaU9TwqAxNC4zLg",
+							"AQAAAAAAAAABAAAAhFsAAAAAAAAOWwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							95,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAALlbAAAAAAAAulsAAAAAAAAAAAAAulsAAAAAAADCWwAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAuVsAAAAAAAC5WwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							96,
+							1,
+							"paste",
+							null,
+							"AQAAAMJbAAAAAAAAJFwAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAwlsAAAAAAADCWwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							97,
+							1,
+							"insert",
+							{
+								"characters": "\n<"
+							},
+							"BAAAACRcAAAAAAAAJVwAAAAAAAAAAAAAJVwAAAAAAAAtXAAAAAAAAAAAAAAtXAAAAAAAAC5cAAAAAAAAAAAAAC5cAAAAAAAAL1wAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAJFwAAAAAAAAkXAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							98,
+							1,
+							"close_tag",
+							{
+								"insert_slash": true
+							},
+							"AwAAAC9cAAAAAAAAMlwAAAAAAAAAAAAAJVwAAAAAAAAlXAAAAAAAAAkAAAAJCQkJCQkJCQklXAAAAAAAAC1cAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAL1wAAAAAAAAvXAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							99,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAADFcAAAAAAAAMlwAAAAAAAAAAAAAMlwAAAAAAAA6XAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMVwAAAAAAAAxXAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							100,
+							1,
+							"paste",
+							null,
+							"AQAAADpcAAAAAAAAnFwAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAOlwAAAAAAAA6XAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							101,
+							1,
+							"insert",
+							{
+								"characters": "\n<"
+							},
+							"BAAAAJxcAAAAAAAAnVwAAAAAAAAAAAAAnVwAAAAAAAClXAAAAAAAAAAAAAClXAAAAAAAAKZcAAAAAAAAAAAAAKZcAAAAAAAAp1wAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAnFwAAAAAAACcXAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							102,
+							1,
+							"close_tag",
+							{
+								"insert_slash": true
+							},
+							"AwAAAKdcAAAAAAAAqlwAAAAAAAAAAAAAnVwAAAAAAACdXAAAAAAAAAkAAAAJCQkJCQkJCQmdXAAAAAAAAKVcAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAp1wAAAAAAACnXAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							105,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AwAAACRcAAAAAAAAJVwAAAAAAAAAAAAAJVwAAAAAAAAtXAAAAAAAAAAAAAAtXAAAAAAAAC5cAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAJFwAAAAAAAAkXAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							106,
+							1,
+							"paste",
+							null,
+							"AQAAAC5cAAAAAAAA3FwAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAALlwAAAAAAAAuXAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							109,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AwAAAFRdAAAAAAAAVV0AAAAAAAAAAAAAVV0AAAAAAABdXQAAAAAAAAAAAABdXQAAAAAAAF5dAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAVF0AAAAAAABUXQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							110,
+							1,
+							"paste",
+							null,
+							"AQAAAF5dAAAAAAAAk10AAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAXl0AAAAAAABeXQAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"contents": "BNAV_FIND\thttps://locate.apple.com/id/id?cid=CDM-${listfile.countryCode}-DM-${listfile.copCampaignId}-${listfile.copListId}\t0\t0\tStandard\tDefault Redirect\nCOMPARE_BTN\thttps://www.apple.com/id/watch/compare/?cid=CDM-${listfile.countryCode}-DM-${listfile.copCampaignId}-${listfile.copListId}\t0\t0\tStandard\tDefault Redirect\nHERO_IMG\thttps://www.apple.com/id/buy/?cid=CDM-${listfile.countryCode}-DM-${listfile.copCampaignId}-${listfile.copListId}\t0\t0\tStandard\tDefault Redirect\nLEARN_MORE_LNK\thttps://www.apple.com/id/apple-fitness-plus/?cid=CDM-${listfile.countryCode}-DM-${listfile.copCampaignId}-${listfile.copListId}\t0\t0\tStandard\tDefault Redirect\nLEGAL\thttps://www.apple.com/id/legal/\t0\t0\tStandard\tDefault Redirect\nLOGO_IMG\thttps://www.apple.com/id/apple-fitness-plus/?cid=CDM-${listfile.countryCode}-DM-${listfile.copCampaignId}-${listfile.copListId}\t0\t0\tStandard\tDefault Redirect\nMMA\thttps://appleid.apple.com/id_ID/\t0\t0\tStandard\tDefault Redirect\nM_COMPARE_BTN\thttps://www.apple.com/id/watch/compare/?cid=CDM-${listfile.countryCode}-DM-${listfile.copCampaignId}-${listfile.copListId}\t0\t0\tStandard\tDefault Redirect\nM_HERO_IMG\thttps://www.apple.com/id/buy/?cid=CDM-${listfile.countryCode}-DM-${listfile.copCampaignId}-${listfile.copListId}\t0\t0\tStandard\tDefault Redirect\nM_LEARN_MORE_LNK\thttps://www.apple.com/id/apple-fitness-plus/?cid=CDM-${listfile.countryCode}-DM-${listfile.copCampaignId}-${listfile.copListId}\t0\t0\tStandard\tDefault Redirect\nM_LOGO_IMG\thttps://www.apple.com/id/apple-fitness-plus/?cid=CDM-${listfile.countryCode}-DM-${listfile.copCampaignId}-${listfile.copListId}\t0\t0\tStandard\tDefault Redirect\nPRIVACY\thttps://www.apple.com/legal/privacy/id/\t0\t0\tStandard\tDefault Redirect",
+					"file": "/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E/clicks.txt",
+					"file_size": 1688,
+					"file_write_time": 132845334152997691,
+					"settings":
+					{
+						"buffer_size": 1688,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Apple Fitness+\n${clicks.get('LOGO_IMG')}\n\n-------------------\n\nHadirkan diri Anda yang baru.\n\nApple Fitness+ disertakan dengan langganan Apple One Premier Anda. Beli Apple Watch dan mulai hari ini.\n\nBeli Apple Watch\n${clicks.get('HERO_IMG')}\n\n11 tipe olahraga berbeda, mulai dari HIIT sampai Yoga.\n\nOlahraga dan meditasi baru setiap minggu.\n\nTetap termotivasi dengan metrik real-time dari Apple Watch.\n\nSelengkapnya tentang Apple Fitness+\n${clicks.get('LEARN_MORE_LNK')}\n\nApple Watch mana yang tepat untuk Anda?\n\nBandingkan model Apple Watch\n${clicks.get('COMPARE_BTN')}\n\n-------------------\n\nCari Penjual\n${clicks.get('BNAV_FIND')}\n\n001-803-65-7955\n\n-------------------\n\nLangganan diperlukan untuk Apple Fitness+.\n\nApple Fitness+ memerlukan iOS 14.3 atau lebih baru, iPadOS 14.3 atau lebih baru, watchOS 7.2 atau lebih baru, dan tvOS 14.3 atau lebih baru.\n\nUntuk mendapatkan fitur terbaru, gunakan Apple Fitness+ dengan Apple Watch Series 3 atau lebih baru dengan watchOS 8 yang dipasangkan dengan iPhone 6s atau lebih baru dengan iOS 15; iPad dengan iPadOS 15; dan Apple TV 4K atau Apple TV HD dengan tvOS 15 atau lebih baru. \n\nApple Fitness+ memerlukan Apple Watch Series 3 atau lebih baru. Tersedia ketika dipasangkan dengan iPhone 6s atau lebih baru dengan iOS 14.3 atau lebih baru.\n\nOlahraga dan meditasi Apple Fitness+ akan diajarkan dalam bahasa Inggris dengan opsi untuk subtitle dalam bahasa Prancis, Spanyol, Jerman, Italia, Rusia, dan Portugis Brasil.\n\nBeberapa konten mungkin tidak tersedia di semua area.\n\nTM dan © ${global.copyrightYear} Apple Inc. Tel: 001-803-65-7955\n\n-------------------\n\nSeluruh Hak Cipta Dilindungi Undang-Undang\n${clicks.get('LEGAL')}\n\nKebijakan Privasi\n${clicks.get('PRIVACY')}\n\nID Apple Saya\n${clicks.get('MMA')}\n\n-------------------\n\nBila Anda memilih untuk tidak menerima email penawaran dari Apple, atau Anda telah mengganti alamat email, silakan klik di sini.\n${global.unsubscribeURL}\n\n-------------------",
+					"file": "/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E/index.txt",
+					"file_size": 1971,
+					"file_write_time": 132845334116184916,
+					"settings":
+					{
+						"buffer_size": 1949,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							1,
+							"paste",
+							null,
+							"AgAAAD8AAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABcAAAAAAAAABUAAABCcmluZyBvbiB0aGUgbmV3IHlvdS4",
+							"AQAAAAAAAAABAAAAVAAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							1,
+							"paste",
+							null,
+							"AgAAAF4AAAAAAAAAxQAAAAAAAAAAAAAAxQAAAAAAAADFAAAAAAAAAGwAAABBcHBsZSBGaXRuZXNzKyBpcyBpbmNsdWRlZCBpbiB5b3VyIEFwcGxlIE9uZSBQcmVtaWVyIHN1YnNjcmlwdGlvbi4gQnV5IGFuIEFwcGxlIFdhdGNoIGFuZCBnZXQgc3RhcnRlZCB0b2RheS4",
+							"AQAAAAAAAAABAAAAygAAAAAAAABeAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"paste",
+							null,
+							"AgAAAMcAAAAAAAAA1wAAAAAAAAAAAAAA1wAAAAAAAADXAAAAAAAAABAAAABTaG9wIEFwcGxlIFdhdGNo",
+							"AQAAAAAAAAABAAAA1wAAAAAAAADHAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							12,
+							1,
+							"paste",
+							null,
+							"AgAAAPMAAAAAAAAAKQEAAAAAAAAAAAAAKQEAAAAAAAApAQAAAAAAADkAAAAxMSBkaWZmZXJlbnQgd29ya291dCB0eXBlcywgZXZlcnl0aGluZyBmcm9tIEhJSVQgdG8gWW9nYS4",
+							"AQAAAAAAAAABAAAALAEAAAAAAADzAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							15,
+							1,
+							"paste",
+							null,
+							"AgAAACsBAAAAAAAAVAEAAAAAAAAAAAAAVAEAAAAAAABUAQAAAAAAACgAAABOZXcgd29ya291dHMgYW5kIG1lZGl0YXRpb25zIGV2ZXJ5IHdlZWsu",
+							"AQAAAAAAAAABAAAAUwEAAAAAAAArAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							18,
+							1,
+							"paste",
+							null,
+							"AgAAAFYBAAAAAAAAkQEAAAAAAAAAAAAAkQEAAAAAAACRAQAAAAAAADcAAABTdGF5IG1vdGl2YXRlZCB3aXRoIHJlYWwtdGltZSBtZXRyaWNzIGZyb20gQXBwbGUgV2F0Y2gu",
+							"AQAAAAAAAAABAAAAjQEAAAAAAABWAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							21,
+							1,
+							"paste",
+							null,
+							"AgAAAJMBAAAAAAAAtgEAAAAAAAAAAAAAtgEAAAAAAAC2AQAAAAAAAB8AAABMZWFybiBtb3JlIGFib3V0IEFwcGxlIEZpdG5lc3Mr",
+							"AQAAAAAAAAABAAAAsgEAAAAAAACTAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							24,
+							1,
+							"paste",
+							null,
+							"AgAAANgBAAAAAAAA/wEAAAAAAAAAAAAA/wEAAAAAAAD/AQAAAAAAACUAAABXaGljaCBBcHBsZSBXYXRjaCBpc8KgcmlnaHQgZm9ywqB5b3U/",
+							"AQAAAAAAAAABAAAA+wEAAAAAAADYAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							27,
+							1,
+							"paste",
+							null,
+							"AgAAAAECAAAAAAAAHQIAAAAAAAAAAAAAHQIAAAAAAAAdAgAAAAAAABoAAABDb21wYXJlIEFwcGxlIFdhdGNoIG1vZGVscw",
+							"AQAAAAAAAAABAAAAGwIAAAAAAAABAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							30,
+							1,
+							"paste",
+							null,
+							"AgAAAKACAAAAAAAAygIAAAAAAAAAAAAAygIAAAAAAADKAgAAAAAAAC8AAABBIHN1YnNjcmlwdGlvbiBpcyByZXF1aXJlZCBmb3IgQXBwbGXCoEZpdG5lc3MrLg",
+							"AQAAAAAAAAABAAAAzgIAAAAAAACgAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							33,
+							1,
+							"paste",
+							null,
+							"AgAAAMwCAAAAAAAAWAMAAAAAAAAAAAAAWAMAAAAAAABYAwAAAAAAAHIAAABBcHBsZSBGaXRuZXNzKyByZXF1aXJlcyBpT1MgMTQuMyBvciBsYXRlciwgaVBhZE9TwqAxNC4zIG9yIGxhdGVyLCB3YXRjaE9TwqA3LjIgb3IgbGF0ZXIsIGFuZCB0dk9TwqAxNC4zIG9ywqBsYXRlci4",
+							"AQAAAAAAAAABAAAAOgMAAAAAAADMAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							36,
+							1,
+							"paste",
+							null,
+							"AgAAAFoDAAAAAAAAZwQAAAAAAAAAAAAAZwQAAAAAAABnBAAAAAAAANgAAABUbyBnZXQgdGhlIG5ld2VzdCBmZWF0dXJlcywgdXNlIEFwcGxlwqBGaXRuZXNzKyB3aXRoIEFwcGxlwqBXYXRjaCBTZXJpZXPCoDMgb3IgbGF0ZXIgd2l0aCB3YXRjaE9TwqA4IHBhaXJlZCB3aXRoIGlQaG9uZcKgNnMgb3IgbGF0ZXIgd2l0aCBpT1PCoDE1OyBpUGFkIHdpdGggaVBhZE9TwqAxNTsgYW5kIEFwcGxlwqBUViA0SyBvciBBcHBsZcKgVFYgSEQgd2l0aCB0dk9TwqAxNS4",
+							"AQAAAAAAAAABAAAAWgMAAAAAAAAoBAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							39,
+							1,
+							"paste",
+							null,
+							"AgAAAGoEAAAAAAAABwUAAAAAAAAAAAAABwUAAAAAAAAHBQAAAAAAAHsAAABBcHBsZSBGaXRuZXNzKyByZXF1aXJlcyBhbiBBcHBsZcKgV2F0Y2ggU2VyaWVzwqAzIG9yIGxhdGVyLiBBdmFpbGFibGUgd2hlbiBwYWlyZWQgd2l0aCBpUGhvbmXCoDZzIG9yIGxhdGVyIHdpdGggaU9TwqAxNC4zLiA",
+							"AQAAAAAAAAABAAAAagQAAAAAAADhBAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							40,
+							1,
+							"insert",
+							{
+								"characters": "\n\n"
+							},
+							"AgAAAAcFAAAAAAAACAUAAAAAAAAAAAAACAUAAAAAAAAJBQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAABwUAAAAAAAAHBQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							41,
+							1,
+							"paste",
+							null,
+							"AQAAAAkFAAAAAAAAtwUAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAACQUAAAAAAAAJBQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							42,
+							1,
+							"insert",
+							{
+								"characters": "\n\n"
+							},
+							"AgAAALcFAAAAAAAAuAUAAAAAAAAAAAAAuAUAAAAAAAC5BQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAtwUAAAAAAAC3BQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							43,
+							1,
+							"paste",
+							null,
+							"AQAAALkFAAAAAAAA7gUAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAuQUAAAAAAAC5BQAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E"
+			],
+			"file_history":
+			[
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 98.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E/subject.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 58,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										58,
+										58
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 25452,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										23955,
+										23955
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 8513.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E/clicks.txt",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1688,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/id/dm/21/2316081-64B0B1B2-2FB5-4BDD-B60F-BA299DADF17E/index.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1949,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1518,
+										1518
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 465.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "YnBsaXN0MDDUAQIDBAUGBxxYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctoICQoLDA0ODxAREhMUFRYXGBkaG18QFU5TTWluaWF0dXJpemF0aW9uU2VlZF8QEF9OU1dpbmRvd0xheW91dHNbTlNDbGFzc05hbWVbTlNTdHlsZU1hc2teTlNXaW5kb3dOdW1iZXJeTlNNaW5pYXR1cml6ZWRdTlNXaW5kb3dGcmFtZV8QEE5TRmlyc3RSZXNwb25kZXJXTlNUaXRsZV8QE05TV2luZG93V29ya3NwYWNlSUQQBYAFgAMRgA8RgpEJgAGAAIACgASvEA8dHh8gISIrMTIzOT9AQURVJG51bGxfEBwxNSA1NiAxNDA5IDgyMSAwIDAgMTQ0MCA4NzcgbxA5AGMAbABpAGMAawBzAC4AdAB4AHQAICAUACAAMgAzADEANgAwADgAMQAtADYANABCADAAQgAxAEIAMgAtADIARgBCADUALQA0AEIARABEAC0AQgA2ADAARgAtAEIAQQAyADkAOQBEAEEARABGADEANwBFWFBYV2luZG93XxAkNjU3OEVGOTMtN0Y4Ri00MDMyLTlDNUItN0QxOTUzMkJFM0Qx0yMkJSYoKldOUy5rZXlzWk5TLm9iamVjdHNWJGNsYXNzoSeABqEpgAqADtMsLSUuLzBfEBhOU1NjcmVlbkxheW91dFVVSURTdHJpbmdfEBJOU1NjcmVlbkxheW91dFNpemWAB4AIgAlfECQ0NkZBMjA4OC01MTc1LTE3MTItMDRBNC04MTgzMjcyQ0YyNDhbezE0NDAsIDkwMH3SNDU2N1okY2xhc3NuYW1lWCRjbGFzc2VzXk5TU2NyZWVuTGF5b3V0ojY4WE5TT2JqZWN00zo7JTw9Pl8QGU5TV2luZG93TGF5b3V0V2luZG93RnJhbWVfEB9OU1dpbmRvd0xheW91dFNjcmVlbkxheW91dEZyYW1lgAuADIANXxAXe3sxNSwgNTZ9LCB7MTQwOSwgODIxfX1fEBV7ezAsIDB9LCB7MTQ0MCwgODc3fX3SNDVCQ15OU1dpbmRvd0xheW91dKJCONI0NUVGXE5TRGljdGlvbmFyeaJFOAAIABEAGgAkACkAMgA3AEkAXgB2AIkAlQChALAAvwDNAOAA6AD+AQABAgEEAQcBCgELAQ0BDwERARMBJQErAUoBvwHIAe8B9gH+AgkCEAISAhQCFgIYAhoCIQI8AlECUwJVAlcCfgKKAo8CmgKjArICtQK+AsUC4QMDAwUDBwMJAyMDOwNAA08DUgNXA2QAAAAAAAACAQAAAAAAAABHAAAAAAAAAAAAAAAAAAADZw",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 192.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 43,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/charenahengsathorn/Development/applecom/us/branches/webedit/us/privacy/features/index.html",
+					"settings":
+					{
+						"buffer_size": 95974,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/charenahengsathorn/Development/applecom/us/branches/webedit/us/privacy/features"
+			],
+			"file_history":
+			[
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 98.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"icloud priva"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/charenahengsathorn/Development/applecom/us/branches/webedit/us/privacy/features"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/charenahengsathorn/Development/applecom/us/branches/webedit/us/privacy/features/index.html",
+							"selected": true,
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 95974,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										72726,
+										72380
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 20090.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "YnBsaXN0MDDUAQIDBAUGBxhYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctgICQoLDA0ODxAREhMUFRYXXxAQX05TV2luZG93TGF5b3V0c1tOU0NsYXNzTmFtZVtOU1N0eWxlTWFza15OU1dpbmRvd051bWJlcl1OU1dpbmRvd0ZyYW1lXxAQTlNGaXJzdFJlc3BvbmRlcldOU1RpdGxlXxATTlNXaW5kb3dXb3Jrc3BhY2VJRIAFgAMRgA8R6Y2AAYAAgAKABK8QDxkaGxwdHictLi81Ozw9QFUkbnVsbF8QHDE1IDU2IDE0MDkgODIxIDAgMCAxNDQwIDg3NyBvEBUAaQBuAGQAZQB4AC4AaAB0AG0AbAAgIBQAIABmAGUAYQB0AHUAcgBlAHNYUFhXaW5kb3dfECQ2NTc4RUY5My03RjhGLTQwMzItOUM1Qi03RDE5NTMyQkUzRDHTHyAhIiQmV05TLmtleXNaTlMub2JqZWN0c1YkY2xhc3OhI4AGoSWACoAO0ygpISorLF8QGE5TU2NyZWVuTGF5b3V0VVVJRFN0cmluZ18QEk5TU2NyZWVuTGF5b3V0U2l6ZYAHgAiACV8QJDQ2RkEyMDg4LTUxNzUtMTcxMi0wNEE0LTgxODMyNzJDRjI0OFt7MTQ0MCwgOTAwfdIwMTIzWiRjbGFzc25hbWVYJGNsYXNzZXNeTlNTY3JlZW5MYXlvdXSiMjRYTlNPYmplY3TTNjchODk6XxAZTlNXaW5kb3dMYXlvdXRXaW5kb3dGcmFtZV8QH05TV2luZG93TGF5b3V0U2NyZWVuTGF5b3V0RnJhbWWAC4AMgA1fEBd7ezE1LCA1Nn0sIHsxNDA5LCA4MjF9fV8QFXt7MCwgMH0sIHsxNDQwLCA4Nzd9fdIwMT4/Xk5TV2luZG93TGF5b3V0oj400jAxQUJcTlNEaWN0aW9uYXJ5okE0AAgAEQAaACQAKQAyADcASQBaAG0AeQCFAJQAogC1AL0A0wDVANcA2gDdAN8A4QDjAOUA9wD9ARwBSQFSAXkBgAGIAZMBmgGcAZ4BoAGiAaQBqwHGAdsB3QHfAeECCAIUAhkCJAItAjwCPwJIAk8CawKNAo8CkQKTAq0CxQLKAtkC3ALhAu4AAAAAAAACAQAAAAAAAABDAAAAAAAAAAAAAAAAAAAC8Q",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 192.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 51,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/ph/privacy/features/index.html",
+					"settings":
+					{
+						"buffer_size": 85755,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/ph/privacy",
+				"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/ph/privacy/features"
+			],
+			"file_history":
+			[
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 98.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"icloud priva"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/ph/privacy"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/ph/privacy/features/index.html",
+							"selected": true,
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 85755,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4309.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "YnBsaXN0MDDUAQIDBAUGBxhYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctgICQoLDA0ODxAREhMUFRYXXxAQX05TV2luZG93TGF5b3V0c1tOU0NsYXNzTmFtZVtOU1N0eWxlTWFza15OU1dpbmRvd051bWJlcl1OU1dpbmRvd0ZyYW1lXxAQTlNGaXJzdFJlc3BvbmRlcldOU1RpdGxlXxATTlNXaW5kb3dXb3Jrc3BhY2VJRIAFgAMRgA8R7SOAAYAAgAKABK8QDxkaGxwdHictLi81Ozw9QFUkbnVsbF8QHDE1IDU2IDE0MDkgODIxIDAgMCAxNDQwIDg3NyBvEBQAaQBuAGQAZQB4AC4AaAB0AG0AbAAgIBQAIABwAHIAaQB2AGEAYwB5WFBYV2luZG93XxAkNjU3OEVGOTMtN0Y4Ri00MDMyLTlDNUItN0QxOTUzMkJFM0Qx0x8gISIkJldOUy5rZXlzWk5TLm9iamVjdHNWJGNsYXNzoSOABqElgAqADtMoKSEqKyxfEBhOU1NjcmVlbkxheW91dFVVSURTdHJpbmdfEBJOU1NjcmVlbkxheW91dFNpemWAB4AIgAlfECQ0NkZBMjA4OC01MTc1LTE3MTItMDRBNC04MTgzMjcyQ0YyNDhbezE0NDAsIDkwMH3SMDEyM1okY2xhc3NuYW1lWCRjbGFzc2VzXk5TU2NyZWVuTGF5b3V0ojI0WE5TT2JqZWN00zY3ITg5Ol8QGU5TV2luZG93TGF5b3V0V2luZG93RnJhbWVfEB9OU1dpbmRvd0xheW91dFNjcmVlbkxheW91dEZyYW1lgAuADIANXxAXe3sxNSwgNTZ9LCB7MTQwOSwgODIxfX1fEBV7ezAsIDB9LCB7MTQ0MCwgODc3fX3SMDE+P15OU1dpbmRvd0xheW91dKI+NNIwMUFCXE5TRGljdGlvbmFyeaJBNAAIABEAGgAkACkAMgA3AEkAWgBtAHkAhQCUAKIAtQC9ANMA1QDXANoA3QDfAOEA4wDlAPcA/QEcAUcBUAF3AX4BhgGRAZgBmgGcAZ4BoAGiAakBxAHZAdsB3QHfAgYCEgIXAiICKwI6Aj0CRgJNAmkCiwKNAo8CkQKrAsMCyALXAtoC3wLsAAAAAAAAAgEAAAAAAAAAQwAAAAAAAAAAAAAAAAAAAu8",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 192.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 53,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/vn/privacy/features/index.html",
+					"settings":
+					{
+						"buffer_size": 87133,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							4,
+							1,
+							"paste",
+							null,
+							"AgAAANcDAQAAAAAARgUBAAAAAAAAAAAARgUBAAAAAABGBQEAAAAAAEIAAAA8ZGl2IGNsYXNzPSJhcnRpY2xlLWxpbmtzLXdyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4",
+							"AQAAAAAAAAABAAAAGQQBAAAAAADXAwEAAAAAAAAAAAAAAPC/"
+						],
+						[
+							7,
+							1,
+							"insert",
+							{
+								"characters": "/vn"
+							},
+							"AwAAACAEAQAAAAAAIQQBAAAAAAAAAAAAIQQBAAAAAAAiBAEAAAAAAAAAAAAiBAEAAAAAACMEAQAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAIAQBAAAAAAAgBAEAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/vn/privacy",
+				"/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/vn/privacy/features"
+			],
+			"file_history":
+			[
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 98.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"icloud priva"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/vn/privacy"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/charenahengsathorn/Development/applecom/sea/branches/webedit/vn/privacy/features/index.html",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 87133,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										66595,
+										66595
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 16163.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "YnBsaXN0MDDUAQIDBAUGBxxYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctoICQoLDA0ODxAREhMUFRYVGBkaG18QEF9OU1dpbmRvd0xheW91dHNbTlNDbGFzc05hbWVbTlNTdHlsZU1hc2tXTlNJc0tleV5OU1dpbmRvd051bWJlclhOU0lzTWFpbl1OU1dpbmRvd0ZyYW1lXxAQTlNGaXJzdFJlc3BvbmRlcldOU1RpdGxlXxATTlNXaW5kb3dXb3Jrc3BhY2VJRIAFgAMRgA8JEe17CYABgACAAoAErxAPHR4fICEiKzEyMzk/QEFEVSRudWxsXxAcMTUgNTYgMTQwOSA4MjEgMCAwIDE0NDAgODc3IG8QFABpAG4AZABlAHgALgBoAHQAbQBsACAgFAAgAHAAcgBpAHYAYQBjAHlYUFhXaW5kb3dfECQ2NTc4RUY5My03RjhGLTQwMzItOUM1Qi03RDE5NTMyQkUzRDHTIyQlJigqV05TLmtleXNaTlMub2JqZWN0c1YkY2xhc3OhJ4AGoSmACoAO0ywtJS4vMF8QGE5TU2NyZWVuTGF5b3V0VVVJRFN0cmluZ18QEk5TU2NyZWVuTGF5b3V0U2l6ZYAHgAiACV8QJDQ2RkEyMDg4LTUxNzUtMTcxMi0wNEE0LTgxODMyNzJDRjI0OFt7MTQ0MCwgOTAwfdI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNeTlNTY3JlZW5MYXlvdXSiNjhYTlNPYmplY3TTOjslPD0+XxAZTlNXaW5kb3dMYXlvdXRXaW5kb3dGcmFtZV8QH05TV2luZG93TGF5b3V0U2NyZWVuTGF5b3V0RnJhbWWAC4AMgA1fEBd7ezE1LCA1Nn0sIHsxNDA5LCA4MjF9fV8QFXt7MCwgMH0sIHsxNDQwLCA4Nzd9fdI0NUJDXk5TV2luZG93TGF5b3V0okI40jQ1RUZcTlNEaWN0aW9uYXJ5okU4AAgAEQAaACQAKQAyADcASQBeAHEAfQCJAJEAoACpALcAygDSAOgA6gDsAO8A8ADzAPQA9gD4APoA/AEOARQBMwFeAWcBjgGVAZ0BqAGvAbEBswG1AbcBuQHAAdsB8AHyAfQB9gIdAikCLgI5AkICUQJUAl0CZAKAAqICpAKmAqgCwgLaAt8C7gLxAvYDAwAAAAAAAAIBAAAAAAAAAEcAAAAAAAAAAAAAAAAAAAMG",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 192.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 54,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

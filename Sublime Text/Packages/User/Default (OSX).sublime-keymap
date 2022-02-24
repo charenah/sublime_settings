@@ -1,0 +1,21 @@
+[
+	  { "keys": ["ctrl+shift+1"], "command": "insert_snippet", "args": { "name": "Packages/User/dmmobilewrapper.sublime-snippet" } },
+
+   { "keys": ["ctrl+shift+2"], "command": "insert_snippet", "args": { "name": "Packages/User/normalmobilewrapper.sublime-snippet" } },
+
+    { "keys": ["ctrl+shift+3"], "command": "insert_snippet", "args": { "name": "Packages/User/mobilewrapperalt.sublime-snippet" } },
+
+    { "keys": ["ctrl+shift+4"], "command": "insert_snippet", "args": { "name": "Packages/User/wrapperall.sublime-snippet" } },
+
+    { "keys": ["ctrl+shift+5"], "command": "insert_snippet", "args": { "name": "Packages/User/wrapperlarge.sublime-snippet" } },
+
+    { "keys": ["ctrl+shift+6"], "command": "insert_snippet", "args": { "name": "Packages/User/wrappermed.sublime-snippet" } },
+
+    { "keys": ["ctrl+shift+7"], "command": "insert_snippet", "args": { "name": "Packages/User/wrappersmall.sublime-snippet" } },
+
+    { "keys": ["ctrl+shift+8"], "command": "insert_snippet", "args": { "name": "Packages/User/wrappingcss.sublime-snippet" } },
+
+    { "keys": ["ctrl+shift+9"], "command": "insert_snippet", "args": { "name": "Packages/User/fontth.sublime-snippet" } },
+
+    { "keys": ["ctrl+shift+L"], "command": "insert_snippet", "args": { "name": "Packages/User/legallines-snippet" } },
+]
